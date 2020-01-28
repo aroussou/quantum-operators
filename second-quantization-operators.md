@@ -13,7 +13,7 @@ m_max = 5 since the length of the initial state is 5 and we define a vector in o
                             
 Thereby, 
 
-a_4 | 0 0 1 1 0 > = \sqrt{1} | 0 0 1 0 0 > , coef = \sqrt{1} and the new state is : | 0 0 1 0 0 >
+          a_4 | 0 0 1 1 0 > = \sqrt{1} | 0 0 1 0 0 > , coef = \sqrt{1} and the new state is : | 0 0 1 0 0 >
 
 # Bosonic creation-operator
 A creation operator (usually denoted {a}^{\dagger}_{n}) increases the number of particles in a given state by one, and it is the adjoint of the annihilation operator. 
@@ -30,7 +30,7 @@ m_max = 5 since the length of the initial state is 5 and we define a vector in o
                             
 Thereby, 
 
-a^{\dagger}_4 | 0 0 1 1 0 > = \sqrt{2} | 0 0 1 2 0 > , coef = \sqrt{2} and the new state is : | 0 0 1 2 0 >
+          a^{\dagger}_4 | 0 0 1 1 0 > = \sqrt{2} | 0 0 1 2 0 > , coef = \sqrt{2} and the new state is : | 0 0 1 2 0 >
 
 # Bosonic second-quantization-operators
 In many subfields of physics and chemistry, the use of these operators instead of wavefunctions is known as second quantization.
